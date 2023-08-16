@@ -6,6 +6,7 @@ public class WelcomeTest {
 		System.out.println("Welcome in Oracle Robotics AI");
 		System.out.println("Added code by Dev2");
 		System.out.println("Added code by Dev1");
+		System.out.println("Some code added by Dev1");
 		System.out.println("Other code added by Dev2");
 
 	}
